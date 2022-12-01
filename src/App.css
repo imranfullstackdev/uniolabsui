@@ -1,0 +1,5 @@
+.allImages{
+  display: flex;  
+  flex-wrap: wrap;
+
+}
